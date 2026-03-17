@@ -3,6 +3,10 @@
 Este projeto é um site institucional simples de uma clínica estética.  
 Ele apresenta algumas informações sobre os procedimentos oferecidos pela clínica e também disponibiliza uma página de contato.
 
+## Preview
+
+<img src="preview.png" width="800">
+
 🔗 **Acesse o site:**  
 https://emilyms-tech.github.io/clinica_estetica/
 
